@@ -19,7 +19,7 @@ AI safety, adversarial machine learning, 3D point clouds, diffusion models, nume
 - Third Prize, National Finals, 17th Lanqiao Cup, C/C++ Programming University Group A, 2026
 - Individual Second Prize, China Collegiate Computing Contest – Group Programming Ladder Tournament, 2026
 - First Prize, Liaoning Division, China Undergraduate Mathematical Contest in Modeling, 2025
-- National First Prize, Preliminary Round, 16th Chinese Mathematics Competitions, 2025
+- National First Prize, Preliminary Round, 16th Chinese Mathematics Competitions, 2024
 - National Third Prize, Finals, 16th Chinese Mathematics Competitions, 2025
 - Honorable Mention, COMAP Mathematical Contest in Modeling, 2025
 

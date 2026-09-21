@@ -10,7 +10,7 @@ author_profile: true
 
 <div class="award-list">
   <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">First Prize, Liaoning Division</div><div class="award-detail">China Undergraduate Mathematical Contest in Modeling (CUMCM)</div></div></div>
-  <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">National First Prize, Preliminary Round</div><div class="award-detail">16th Chinese Mathematics Competitions, Mathematics Category A</div></div></div>
+  <div class="award-row"><div class="award-year">2024</div><div><div class="award-title">National First Prize, Preliminary Round</div><div class="award-detail">16th Chinese Mathematics Competitions, Mathematics Category A</div></div></div>
   <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">National Third Prize, Finals</div><div class="award-detail">16th Chinese Mathematics Competitions, Lower-Division Mathematics Category</div></div></div>
   <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">Honorable Mention</div><div class="award-detail">COMAP Mathematical Contest in Modeling (MCM)</div></div></div>
   <div class="award-row"><div class="award-year">2026</div><div><div class="award-title">First Prize</div><div class="award-detail">Dalian Mathematics Competition, Mathematics Category</div></div></div>
@@ -37,4 +37,3 @@ author_profile: true
 ## Competitive Programming Experience
 
 In addition to the results above, I have participated in CCPC-style contests and maintain a personal algorithm-practice repository. Participation without a confirmed prize is not listed as an award.
-

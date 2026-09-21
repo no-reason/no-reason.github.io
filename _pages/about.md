@@ -59,7 +59,7 @@ I study Information and Computational Science at the School of Mathematical Scie
   <div class="award-row"><div class="award-year">2026</div><div><div class="award-title">Third Prize, National Finals, Lanqiao Cup</div><div class="award-detail">C/C++ Programming, University Group A</div></div></div>
   <div class="award-row"><div class="award-year">2026</div><div><div class="award-title">Individual Second Prize, Group Programming Ladder Tournament</div><div class="award-detail">China Collegiate Computing Contest</div></div></div>
   <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">First Prize, Liaoning Division, CUMCM</div><div class="award-detail">China Undergraduate Mathematical Contest in Modeling</div></div></div>
-  <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">National First Prize, CMC Preliminary Round</div><div class="award-detail">Mathematics Category A, 16th Chinese Mathematics Competitions</div></div></div>
+  <div class="award-row"><div class="award-year">2024</div><div><div class="award-title">National First Prize, CMC Preliminary Round</div><div class="award-detail">Mathematics Category A, 16th Chinese Mathematics Competitions</div></div></div>
   <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">National Third Prize, CMC Finals</div><div class="award-detail">Lower-Division Mathematics Category</div></div></div>
   <div class="award-row"><div class="award-year">2025</div><div><div class="award-title">Honorable Mention, Mathematical Contest in Modeling</div><div class="award-detail">COMAP MCM</div></div></div>
 </div>
