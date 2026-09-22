@@ -87,6 +87,32 @@ a {
 .award-title { font-weight: 700; }
 .award-detail { color: var(--global-text-color-light); font-size: .9rem; margin-top: .18rem; }
 
+.honor-matrix { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.2rem; margin: 1.4rem 0 2.5rem; align-items: start; }
+.honor-panel { padding: 1.35rem; border: 1px solid var(--yz-border); border-top: 4px solid var(--yz-accent); border-radius: 18px; background: var(--global-bg-color); box-shadow: 0 8px 24px rgba(15,45,66,.055); }
+.honor-panel h2 { margin: .1rem 0 .85rem; padding: 0; border: 0; font-size: 1.35rem; }
+.honor-panel--code { border-top-color: #8a5a9d; }
+.honor-panel--model { border-top-color: #b67724; }
+.honor-panel--scholarship { border-top-color: #668548; }
+.honor-entry { display: grid; grid-template-columns: 72px minmax(0, 1fr); gap: .7rem; padding: .72rem 0; border-top: 1px solid var(--yz-border); }
+.honor-entry time { color: var(--yz-accent); font-size: .78rem; font-weight: 750; }
+.honor-entry strong, .honor-entry span { display: block; }
+.honor-entry strong { font-size: .91rem; line-height: 1.35; }
+.honor-entry span { margin-top: .15rem; color: var(--global-text-color-light); font-size: .78rem; line-height: 1.45; }
+.honor-note { margin: .9rem 0 0; padding: .8rem; border-radius: 10px; background: var(--yz-soft); color: var(--global-text-color-light); font-size: .78rem; line-height: 1.55; }
+
+.writing-channel { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr); gap: 1.25rem; margin: 1.25rem 0; padding: 1.4rem; border: 1px solid var(--yz-border); border-radius: 18px; }
+.writing-channel h2 { margin: .1rem 0 .65rem; padding: 0; border: 0; }
+.writing-picks { display: grid; gap: .7rem; }
+.writing-picks > a, .writing-picks > div { display: block; padding: .9rem; border: 1px solid var(--yz-border); border-radius: 12px; color: var(--global-text-color); text-decoration: none; }
+.writing-picks > a:hover { border-color: var(--yz-accent); transform: translateY(-2px); }
+.writing-picks strong, .writing-picks span { display: block; }
+.writing-picks strong { font-size: .9rem; }
+.writing-picks span { margin-top: .25rem; color: var(--global-text-color-light); font-size: .8rem; line-height: 1.5; }
+.writing-channel--wechat { grid-template-columns: minmax(0, 1fr) 180px; align-items: center; }
+.writing-picks--wide { grid-column: 1 / -1; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.wechat-qr { width: 180px; height: 180px; border-radius: 14px; }
+.wechat-instruction, .project-sync-note { color: var(--global-text-color-light); font-size: .85rem; }
+
 .page-intro { max-width: 760px; font-size: 1.05rem; color: var(--global-text-color-light); }
 .callout { padding: 1.1rem 1.25rem; margin: 1rem 0 2rem; border-left: 4px solid var(--yz-accent); border-radius: 0 12px 12px 0; background: var(--yz-soft); }
 
@@ -95,6 +121,11 @@ a {
   .home-hero__avatar { grid-row: 1; width: 104px; height: 104px; border-radius: 22px; }
   .card-grid { grid-template-columns: 1fr; }
   .award-row { grid-template-columns: 58px minmax(0, 1fr); gap: .65rem; }
+  .honor-matrix { grid-template-columns: 1fr; }
+  .honor-entry { grid-template-columns: 64px minmax(0, 1fr); }
+  .writing-channel, .writing-channel--wechat { grid-template-columns: 1fr; }
+  .writing-picks--wide { grid-column: 1; grid-template-columns: 1fr; }
+  .wechat-qr { width: 150px; height: 150px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

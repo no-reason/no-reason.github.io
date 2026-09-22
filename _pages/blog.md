@@ -4,12 +4,21 @@ title: "Blog & Writing"
 author_profile: true
 ---
 
-<p class="page-intro">I write Chinese-language notes about mathematics, algorithms, programming contests, and study methods.</p>
+<p class="page-intro">I maintain two Chinese-language writing channels with deliberately different scopes: practical computing on CSDN and proof-oriented mathematics on WeChat.</p>
 
-<div class="card-grid">
-  <article class="academic-card"><p class="card-meta">Technical Writing</p><h3><a href="https://blog.csdn.net/qq_47188574">CSDN</a></h3><p>Articles and notes on mathematics and programming.</p></article>
-  <article class="academic-card" id="wechat"><p class="card-meta">WeChat Public Account</p><h3 lang="zh-CN">一言先生的数学世界</h3><p>The account does not have a stable public web URL. Search this exact name in WeChat to follow it.</p></article>
-</div>
+<section class="writing-channel">
+  <div><p class="card-meta">Algorithms · Linux · Systems Practice</p><h2><a href="https://blog.csdn.net/qq_47188574">CSDN · wanderist.</a></h2><p>Problem-solving notes for programming contests, reusable C++ templates, and practical records from Linux administration, remote development, and research-computing environments.</p></div>
+  <div class="writing-picks">
+    <a href="https://blog.csdn.net/qq_47188574/article/details/155955538"><strong>2024 Lanqiao Cup Provincial C++ Group A — Problem Notes</strong><span>A worked collection covering enumeration, dynamic programming, and implementation details.</span></a>
+    <a href="https://blog.csdn.net/qq_47188574/article/details/161106202"><strong>Troubleshooting VS Code / Cursor Remote-SSH Prerequisites</strong><span>A layered diagnosis of SSH connectivity, server compatibility, and remote-development failures.</span></a>
+  </div>
+</section>
 
-No QR code is published here because the available screenshot identifies the account but does not provide a verified public-account QR code.
-
+<section class="writing-channel writing-channel--wechat" id="wechat">
+  <div><p class="card-meta">Mathematical Exposition</p><h2 lang="zh-CN">一言先生的数学世界</h2><p>Long-form notes on mathematical analysis, linear algebra, analytic geometry, real analysis, probability, complex analysis, numerical linear algebra, and abstract algebra.</p><p class="wechat-instruction">Scan the public-account QR code in WeChat to follow.</p></div>
+  <img src="/images/wechat-qr.jpg" alt="QR code for the WeChat public account 一言先生的数学世界" class="wechat-qr">
+  <div class="writing-picks writing-picks--wide">
+    <div><strong lang="zh-CN">谈 Vitali 收敛定理在概率论和实变教材中两种不同表示形式的等价性</strong><span>On the equivalence of two formulations of Vitali's convergence theorem used in probability and real-analysis texts.</span></div>
+    <div><strong lang="zh-CN">利用核函数证明积分不等式</strong><span>A kernel-function approach to proving integral inequalities.</span></div>
+  </div>
+</section>
