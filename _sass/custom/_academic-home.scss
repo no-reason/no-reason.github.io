@@ -112,6 +112,10 @@ a {
 .writing-picks--wide { grid-column: 1 / -1; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .wechat-qr { width: 180px; height: 180px; border-radius: 14px; }
 .wechat-instruction, .project-sync-note { color: var(--global-text-color-light); font-size: .85rem; }
+.research-projects { display: grid; gap: 1rem; margin: 1rem 0 2rem; }
+.research-feature { border-left: 4px solid var(--yz-accent); }
+.research-feature--proposed { border-left-color: #8a5a9d; }
+.research-advisor { color: var(--global-text-color-light); font-size: .85rem !important; }
 
 .page-intro { max-width: 760px; font-size: 1.05rem; color: var(--global-text-color-light); }
 .callout { padding: 1.1rem 1.25rem; margin: 1rem 0 2rem; border-left: 4px solid var(--yz-accent); border-radius: 0 12px 12px 0; background: var(--yz-soft); }
